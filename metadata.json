@@ -1,0 +1,6 @@
+{
+  "name": "Squid Survival",
+  "description": "Only one can survive. A 7-level mobile-first survival game featuring Red Light Green Light, Dalgona, Tug of War, Marbles, Glass Bridge, Hide and Survive, and the Squid Game Final.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
